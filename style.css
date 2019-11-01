@@ -486,3 +486,17 @@ hr{
 .aide-content > ul{
     padding-left: 11px;
 }
+.flex-ft{
+    display: flex;
+    margin-left: 81px;
+    margin-top: 25px;
+    justify-content: space-between; 
+}
+.flex-ft > ul > li{
+    list-style-type: none;
+    font-size: .75rem;
+    padding-bottom: 10px;
+}
+.flex-ft > ul > li:hover{
+    text-decoration: underline;
+}
